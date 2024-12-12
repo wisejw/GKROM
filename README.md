@@ -1,3 +1,4 @@
+<div align="center">
 # [AAAI 2025] Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization
 <p>
 <img src="https://img.shields.io/badge/python-v3.10.8-blue">
@@ -6,11 +7,10 @@
 <img src="https://img.shields.io/badge/scikit--learn-v1.2.0-blue">
 <img src="https://img.shields.io/badge/nltk-v3.8.1-blue">
 </p>
+<img src="./GKROM.png" style="zoom: 67%;" />
+</div>
 
 In this paper, we introduce an innovative model designed to deeply learn concept prerequisite relations and their associated knowledge relations through a global relation optimization strategy. GKROM leverages the powerful representation learning capabilities of graph neural networks and incorporates multi-perspective information from auxiliary tasks, resulting in a more comprehensive understanding of knowledge relations. As illustrated in Figure, the architecture of GKROM outlines the entire process from heterogeneous graph construction to multi-objective optimization. The model is organized into three main layers: Heterogeneous Graph Construction, Graph Neural Network Learning, and Multi-Objective Optimization. This design allows the model to capture and understand knowledge relations from both local and global perspectives.
-
-<img src="./GKROM.png" style="zoom: 67%;" />
-
 
 
 ## Installation
