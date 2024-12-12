@@ -1,5 +1,11 @@
-# Anonymous code repository for GKROM
-
+# [AAAI 2025] Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization
+<p>
+<img src="https://img.shields.io/badge/python-v3.10.8-blue">
+<img src="https://img.shields.io/badge/pytorch-v2.1.2-blue">
+<img src="https://img.shields.io/badge/transformers-v4.26.1-blue">
+<img src="https://img.shields.io/badge/scikit--learn-v1.2.0-blue">
+<img src="https://img.shields.io/badge/nltk-v3.8.1-blue">
+</p>
 
 In this paper, we introduce an innovative model designed to deeply learn concept prerequisite relations and their associated knowledge relations through a global relation optimization strategy. GKROM leverages the powerful representation learning capabilities of graph neural networks and incorporates multi-perspective information from auxiliary tasks, resulting in a more comprehensive understanding of knowledge relations. As illustrated in Figure, the architecture of GKROM outlines the entire process from heterogeneous graph construction to multi-objective optimization. The model is organized into three main layers: Heterogeneous Graph Construction, Graph Neural Network Learning, and Multi-Objective Optimization. This design allows the model to capture and understand knowledge relations from both local and global perspectives.
 
@@ -10,8 +16,6 @@ In this paper, we introduce an innovative model designed to deeply learn concept
 ## Installation
 
 Ensure you have Python 3.7+ and the required dependencies installed. 
-
-Create the environment from the `environment.yml` file using `conda env create -f environment.yml` command.
 
 Make sure you have the following Python packages installed:
 
