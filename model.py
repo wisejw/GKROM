@@ -5,6 +5,7 @@ import torch.nn as nn
 from torch_geometric.nn import GATConv, Linear
 
 
+# Graph Attention Network (GAT) model
 class GAT(torch.nn.Module):
     def __init__(self, in_channels=300, out_channels1=128, out_channels2=512):
         super(GAT, self).__init__()
@@ -14,8 +15,10 @@ class GAT(torch.nn.Module):
         self.lin2 = Linear(-1, out_channels2)
 
     def forward(self, x, edge_index):
+        # Apply first GAT layer and add linear transformation
         x = self.conv1(x, edge_index) + self.lin1(x)
         x = x.relu()
+        # Apply second GAT layer and add linear transformation
         x = self.conv2(x, edge_index) + self.lin2(x)
         return x
 
@@ -35,6 +38,7 @@ class MHGAT(torch.nn.Module):
         return x
 
 
+# Siamese Network
 class SiameseNet(nn.Module):
     def __init__(self, input_dim):
         super(SiameseNet, self).__init__()
@@ -53,6 +57,7 @@ class SiameseNet(nn.Module):
         return pred_prob
 
 
+# Resource-Concept Prediction Network
 class ResourceConceptPredictNet(nn.Module):
     def __init__(self, input_dim):
         super(ResourceConceptPredictNet, self).__init__()
@@ -70,6 +75,7 @@ class ResourceConceptPredictNet(nn.Module):
         return pred_prob
 
 
+# Resource-Dependency Prediction Network
 class ResourceDependencyPredictNet(nn.Module):
     def __init__(self, input_dim):
         super(ResourceDependencyPredictNet, self).__init__()
