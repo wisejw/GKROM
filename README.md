@@ -4,7 +4,7 @@
 
 **GKROM** is a novel global knowledge relation optimization approach for concept prerequisite relation learning. [[doi]](https://doi.org/10.1609/aaai.v39i2.32156).
 
-> Miao Zhang, Jiawei Wang, Kui Xiao, Shihui Wang, Yan Zhang, Hao Chen, Zhifei Li. Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization. AAAI 2025 Technical Track on Cognitive Modeling & Cognitive Systems.
+> Miao Zhang, Jiawei Wang, Kui Xiao, Shihui Wang, Yan Zhang, Hao Chen, Zhifei Li. Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization. AAAI 2025 Technical Track on Cognitive Modeling & Cognitive Systems. Oral Paper.
 
 <p>
 <img src="https://img.shields.io/badge/python-v3.10.8-blue">
@@ -144,12 +144,12 @@ Both training and testing outputs are logged to timestamped files in the logs/ d
 
 
 
-## Acknowledgement
+## Citation
 
 Please cite the following paper if you find our code helpful.
 
 ```bibtex
-@article{Zhang_Wang_Xiao_Wang_Zhang_Chen_Li_2025, 
+@article{Zhang2025gkrom, 
   title   = {Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization}, 
   volume  = {39}, 
   url     = {https://ojs.aaai.org/index.php/AAAI/article/view/32156}, 
