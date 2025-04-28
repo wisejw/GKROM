@@ -149,17 +149,22 @@ Both training and testing outputs are logged to timestamped files in the logs/ d
 Please cite the following paper if you find our code helpful.
 
 ```bibtex
-@article{Zhang2025gkrom, 
-  title   = {Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization}, 
-  volume  = {39}, 
-  url     = {https://ojs.aaai.org/index.php/AAAI/article/view/32156}, 
-  DOI     = {10.1609/aaai.v39i2.32156}, 
-  number  = {2}, 
-  journal = {Proceedings of the AAAI Conference on Artificial Intelligence}, 
-  author  = {Zhang, Miao and Wang, Jiawei and Xiao, Kui and Wang, Shihui and Zhang, Yan and Chen, Hao and Li, Zhifei}, 
-  year    = {2025}, 
-  month   = {Apr.}, 
-  pages   = {1638-1646} 
+@inproceedings{Zhang2025gkrom,
+  author       = {Miao Zhang and
+                  Jiawei Wang and
+                  Kui Xiao and
+                  Shihui Wang and
+                  Yan Zhang and
+                  Hao Chen and
+                  Zhifei Li},
+  title        = {Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {1638--1646},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i2.32156},
+  doi          = {10.1609/AAAI.V39I2.32156}
 }
 ```
 
