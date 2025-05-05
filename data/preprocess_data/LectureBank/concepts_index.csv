@@ -1,0 +1,320 @@
+0,spelling correction
+1,structured prediction
+2,pointer networks
+3,spectral methods
+4,graph convolutional networks
+5,syntax
+6,markov decision processes
+7,sentiment analysis
+8,planning
+9,calculus
+10,shallow parsing
+11,harmonic functions
+12,language identification
+13,semi-supervised learning
+14,dialog systems
+15,event detection
+16,cky parsing
+17,a* search
+18,automated essay scoring
+19,matrix multiplication
+20,phrase based machine translation
+21,neural turing machine
+22,graph theory
+23,semantic parsing
+24,thesaurus-based similarity
+25,statistical machine translation
+26,greedy algorithms
+27,parts of speech
+28,context sensitive grammar
+29,memory networks
+30,genetic algorithms
+31,transfer learning
+32,structured learning
+33,named entity recognition
+34,lexical semantics
+35,collaborative filtering
+36,evaluation of language modeling
+37,bias-variance
+38,mathematical models
+39,generative adversarial networks
+40,bag of words model
+41,gradient descent
+42,convolutional neural network
+43,morphological disambiguation
+44,entropy
+45,question answering
+46,class logistics
+47,toolkits for information retrieval
+48,computational phonology
+49,classic parsing methods
+50,deep learning tools
+51,chinese nlp
+52,speech processing
+53,discourse analysis
+54,q learning
+55,dependency parsing
+56,prosody
+57,bagging
+58,domain adaptation
+59,transliteration
+60,document ranking
+61,programming languages
+62,facial recognition systems
+63,neural question answering
+64,particle filter
+65,combinatory categorial grammar
+66,nn sequence parsing
+67,evaluation of information retrieval
+68,nlp for biology
+69,structured sparsity
+70,multilingual word embedding
+71,one-shot learning
+72,others
+73,theory of computation
+74,paraphrasing
+75,search
+76,multi-modal learning
+77,uncertainty
+78,neural summarization
+79,chat bots
+80,information theory
+81,multi-task learning
+82,transition based dependency parsing
+83,summarization evaluation
+84,inference
+85,long short term memory networks
+86,robotics
+87,reinforcement learning
+88,social network extraction
+89,learning
+90,social media analysis
+91,perceptron
+92,discourse model
+93,sentence simplification
+94,recursive neural networks
+95,probabilities
+96,variational bayes models
+97,monte carlo tree search
+98,recursive neural network
+99,logic and logical agents
+100,data structures
+101,informed search
+102,seq2seq
+103,linguistics basics
+104,feature learning
+105,conditional probability
+106,bayesian network
+107,decision trees
+108,problem solving and search
+109,hidden markov models
+110,optimization
+111,tokenization
+112,generative and discriminative models
+113,crawling the web
+114,speech recognition
+115,neural language modeling
+116,word distributions
+117,predicate logic
+118,object detection
+119,gibbs sampling
+120,maximum likelihood estimation
+121,random forest
+122,wordnet
+123,beam search
+124,regularization
+125,bidirectional recurrent neural networks
+126,tree adjoining grammar
+127,robotic locomotion
+128,classification
+129,supertagging
+130,finite state transducers
+131,computer vision
+132,stemming
+133,context free grammar
+134,radial basis function network
+135,probabilistic grammars
+136,attention models
+137,random walks
+138,dual decomposition
+139,constraint satisfaction
+140,syntaxnet
+141,k-nn
+142,variational autoencoders
+143,discourse parsing
+144,knowledge graph
+145,evaluation of question answering
+146,normalization
+147,recurrent neural networks
+148,text summarization
+149,bootstrapping
+150,bayes theorem
+151,capsule networks
+152,text similarity
+153,backpropagation
+154,imagenet
+155,logic and reasoning
+156,search engine indexing
+157,part of speech tagging
+158,n-gram models
+159,search engines
+160,statistical parsing
+161,sentence representations
+162,vector semantics
+163,activation functions
+164,machine translation
+165,context-sensitive grammars
+166,heuristic search
+167,caption generation
+168,highway networks
+169,earley parsing
+170,deep Q-network
+171,newton method
+172,reading comprehension
+173,ensemble learning
+174,word embedding
+175,latent dirichlet allocation
+176,python
+177,kernel function
+178,log-linear models
+179,semi supervised learning
+180,parsing
+181,convolutional neural networks
+182,spectral clustering
+183,morphology and semantics in machine translation
+184,regular expressions
+185,deep learning introduction
+186,scientific article summarization
+187,sequence classification and conditional random fields
+188,logistic regression
+189,data structures and algorithms
+190,unlexicalized parsing
+191,machine learning resources
+192,expert systems
+193,linear programming
+194,weakly-supervised learning
+195,information retrieval
+196,monte carlo methods
+197,topic modeling
+198,sentence boundary recognition
+199,machine translation techniques
+200,neural machine translation
+201,k means
+202,document representation
+203,penn treebank
+204,citation networks
+205,lexicography
+206,latent variable models
+207,character level language models
+208,text generation
+209,computation theory
+210,bio text mining
+211,recommendation system
+212,dual problems
+213,morphology and lexicon
+214,edit distance
+215,preprocessing
+216,context free grammars
+217,probabilistic context free grammars
+218,neural networks
+219,game playing in ai
+220,lexicalized parsing
+221,graph-based nlp
+222,handwriting recognition
+223,gated recurrent units
+224,dimensionality reduction
+225,clustering
+226,speech synthesis
+227,relation extraction
+228,markov chain monte carlo
+229,syntax based machine translation
+230,course introduction
+231,phonetics
+232,stack lstm
+233,vector representations
+234,first order logic
+235,matrix factorization
+236,feature selection
+237,nlp and vision
+238,tsne
+239,language modeling
+240,text mining
+241,graphical models
+242,semantic similarity
+243,noisy channel model
+244,pagerank
+245,query expansion
+246,word segmentation
+247,text to speech generation
+248,dynamic programming
+249,the ibm models
+250,statistical part of speech tagging
+251,linear algebra
+252,neural parsing
+253,autonomous cars
+254,nlp for databases
+255,word sense disambiguation
+256,evaluation of text classification
+257,semantic role labeling
+258,random walks and harmonic functions
+259,cross entropy
+260,finite state machines
+261,chomsky hierarchy
+262,dependency syntax
+263,speech signal analysis
+264,training neural networks
+265,grammar checker
+266,information extraction
+267,linear discriminant analysis
+268,adversarial search
+269,propositional logic
+270,natural language processing intro
+271,parsing evaluation
+272,image retrieval
+273,loss function
+274,kernels
+275,nlp for the humanities
+276,policy gradient methods
+277,agent-based view of ai
+278,latent semantic indexing
+279,shift-reduce parsing
+280,first-order logic
+281,multi-agent systems
+282,support vector machines
+283,linear regression
+284,knowledge representation
+285,expectation maximization algorithm
+286,entailment
+287,kullback leibler divergence
+288,evaluation of dependency parsing
+289,singular value decomposition
+290,Markov Random Fields
+291,Variable Elimination
+292,Message Passing
+293,Gaussian graphical models
+294,State Space Models
+295,Belief Propagation
+296,Mean Field Approximation
+297,Dirichlet Processes
+298,Hilbert Space
+299,Kernel Graphical Models
+300,KKT conditions
+301,Lagrange duality
+302,Markov chains
+303,Unsupervised learning
+304,tools for dl
+305,Variations of GANs
+306,Meta-Learning
+307,Mixture Models
+308,Manifold Learning
+309,AlphaGo
+310,Autoencoders
+311,"Restricted Boltzmann machine, deep belief networks"
+312,Principal Component Analysis
+313,Sampling
+314,Canonical Correlation Analysis
+315,Visual QA
+316,Sequence to sequence
+317,ResNet
+318,Naive Bayes
+319,word embedding variations
